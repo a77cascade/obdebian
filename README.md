@@ -1,1 +1,1 @@
-# obdebian
+#Скрипт для удобной установки Openbox в Debian 10.
