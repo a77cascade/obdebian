@@ -288,5 +288,5 @@ else
     echo "Вы ввели неверный номер."
     exit
 fi
-
+sudo lightdm
 exit
